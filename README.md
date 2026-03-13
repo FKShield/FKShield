@@ -55,8 +55,8 @@ I am a software developer focused on building **robust, scalable, and secure Ful
 
 Throughout my career and freelance initiatives, I have developed tools focused on automation, system-level accessibility, and web management:
 
-* 🛡️ **Minecraft Modpack Server Generator:** Web application (Node.js/React) capable of automated scraping on CurseForge to verify mod dependencies and compatibility (client/server) to generate vanilla/modded Forge servers. Integrated with a Discord Bot for real-time server configuration and monitoring.
-* 🎮 **Custom Game Launcher:** Auto-detects installed games from official platforms and allows integrating custom EXEs. Implements an OTA (Over-The-Air) update system leveraging the GitHub web API.
+* 🛡️ **[MC Server Manager Unified](https://github.com/FKShield/mc-server-manager-unified):** Automated Node.js web application for setting up Minecraft (Forge/Fabric) servers. Includes a native web scraper for CurseForge, client-server dependency analyzers, remote RCON console via a Discord Bot, and a live web dashboard to monitor game statistics and up-time.
+* 🎮 **[FKLauncher](https://github.com/FKShield/fk-launcher):** A unified and lightweight game launcher built in Electron. It acts as a central hub detecting installed games across clients (Steam, Epic, Riot, EA, Xbox, etc.) and allows importing standalone EXEs with automated dynamic covers and a highly customizable interface.
 * ⚙️ **Process Memory Injector/Searcher (C/C++):** Tool developed as an auxiliary `.exe` capable of hooking into the memory space of a parent process and generating an advanced internal search system.
 * 💰 **License and Finance System:** Complete web application for tracking income and expenses, protected by a native cryptographic license verification system.
 * 🦷 **Clinic Invoice Management:** Solution aimed at self-employed professionals in the dental clinic sector to automate and streamline their administrative workflow.
@@ -142,8 +142,8 @@ Soy un desarrollador de software enfocado en crear soluciones **Full Stack robus
 
 A lo largo de mi carrera e iniciativas freelance, he desarrollado herramientas centradas en automatización, accesibilidad a nivel de sistema y gestión web:
 
-* 🛡️ **Minecraft Modpack Server Generator:** Aplicación web (Node.js/React) capaz de hacer scrapping automatizado en CurseForge para verificar dependencias y compatibilidad de mods (cliente/servidor) para generar servidores vanilla/modded en Forge. Integrado con un Bot de Discord para configuración y monitoreo del servidor en tiempo real.
-* 🎮 **Custom Game Launcher:** Lanzador automático de videojuegos. Detecta juegos instalados desde plataformas oficiales y permite integrar .exe personalizados. Implementa un sistema de actualización OTA (Over-The-Air) usando la API web de GitHub.
+* 🛡️ **[MC Server Manager Unified](https://github.com/FKShield/mc-server-manager-unified):** Aplicación web automatizada en Node.js para crear servidores de Minecraft (Forge/Fabric). Incluye *web scraping* nativo en CurseForge, un analizador de mods para evitar incompatibilidades (cliente/servidor), vinculación con bots de Discord para comandos RCON y un *dashboard* web interactivo que muestra estadísticas de la partida en vivo.
+* 🎮 **[FKLauncher](https://github.com/FKShield/fk-launcher):** Un lanzador de videojuegos unificado y personalizable construido en Electron. Reúne toda la biblioteca de juegos de distintos clientes (Steam, Epic, Riot, EA, Xbox, etc.) y permite añadir ejecutables sueltos con descarga automatizada de portadas dinámicas y un sistema avanzado de tematización de interfaz.
 * ⚙️ **Inyector/Buscador de Memoria en Procesos (C/C++):** Herramienta desarrollada creando un `.exe` auxiliar capaz de adentrarse en la memoria de un proceso padre `.exe` y generar un sistema de búsqueda interna avanzado.
 * 💰 **Sistema de Licencias y Finanzas Personales/Empresariales:** Aplicación web completa de ingresos y gastos, protegida por un sistema nativo de verificación criptográfica de licencias de uso.
 * 🦷 **Gestión de Facturación para Clínicas:** Solución orientada a autónomos del sector de clínicas dentales para automatizar y agilizar su volumen de facturación.
