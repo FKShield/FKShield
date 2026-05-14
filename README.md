@@ -1,10 +1,10 @@
 <div align="center">
-  <h3>🌎 English | <a href="#-español">🇪🇸 Español</a></h3>
+  <h3> English | <a href="#-español">🇪🇸 Español</a></h3>
 </div>
 
 <br>
 
-# Hi 👋, I'm Ismael Pérez
+# Hi, I'm Ismael Pérez
 
 **Full Stack Developer | Cybersecurity | Systems Administrator**
 
@@ -14,7 +14,7 @@ I am a software developer focused on building **robust, scalable, and secure Ful
 
 ---
 
-### 🛠️ Technologies and Tools
+### Technologies and Tools
 
 **Frontend & Web Design**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -52,20 +52,20 @@ I am a software developer focused on building **robust, scalable, and secure Ful
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 Throughout my career and freelance initiatives, I have developed tools focused on automation, system-level accessibility, and web management:
 
-* 🛡️ **[MC Server Manager Unified](https://github.com/FKShield/mc-server-manager-unified):** Automated Node.js web application for setting up Minecraft (Forge/Fabric) servers. Includes a native web scraper for CurseForge, client-server dependency analyzers, remote RCON console via a Discord Bot, and a live web dashboard to monitor game statistics and up-time.
-* 🎮 **[FKLauncher](https://github.com/FKShield/fk-launcher):** A unified and lightweight game launcher built in Electron. It acts as a central hub detecting installed games across clients (Steam, Epic, Riot, EA, Xbox, etc.) and allows importing standalone EXEs with automated dynamic covers and a highly customizable interface.
-* ⚙️ **Process Memory Injector/Searcher (C/C++):** Tool developed as an auxiliary `.exe` capable of hooking into the memory space of a parent process and generating an advanced internal search system.
-* 💰 **License and Finance System:** Complete web application for tracking income and expenses, protected by a native cryptographic license verification system.
-* 🦷 **Clinic Invoice Management:** Solution aimed at self-employed professionals in the dental clinic sector to automate and streamline their administrative workflow.
-* ✉️ **Interactive Web Events:** Platform for creating immersive digital invitations and web experiences for private events.
+* **[MC Server Manager Unified](https://github.com/FKShield/mc-server-manager-unified):** Automated Node.js web application for setting up Minecraft (Forge/Fabric) servers. Includes a native web scraper for CurseForge, client-server dependency analyzers, remote RCON console via a Discord Bot, and a live web dashboard to monitor game statistics and up-time.
+* **[FKLauncher](https://github.com/FKShield/fk-launcher):** A unified and lightweight game launcher built in Electron. It acts as a central hub detecting installed games across clients (Steam, Epic, Riot, EA, Xbox, etc.) and allows importing standalone EXEs with automated dynamic covers and a highly customizable interface.
+* **Process Memory Injector/Searcher (C/C++):** Tool developed as an auxiliary `.exe` capable of hooking into the memory space of a parent process and generating an advanced internal search system.
+* **License and Finance System:** Complete web application for tracking income and expenses, protected by a native cryptographic license verification system.
+* **Clinic Invoice Management:** Solution aimed at self-employed professionals in the dental clinic sector to automate and streamline their administrative workflow.
+* **Interactive Web Events:** Platform for creating immersive digital invitations and web experiences for private events.
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 
 - **Freelance Developer** *(2 years)*: End-to-end development of multiple web solutions, desktop applications, and bespoke automation tools for various clients.
 - **Systems Technician** at Costa Calida SL *(1.5 years)*: Maintenance, troubleshooting, and deployment of tech solutions in Windows/Linux environments.
@@ -73,7 +73,7 @@ Throughout my career and freelance initiatives, I have developed tools focused o
 
 ---
 
-### 🎓 Education and Certifications
+### Education and Certifications
 
 - **Master's Degree in Cybersecurity** - UCAM
 - **HND Multiplatform Application Development** - IES José Luis Martínez Palomo
@@ -87,12 +87,12 @@ Throughout my career and freelance initiatives, I have developed tools focused o
 <br>
 
 <div align="center">
-  <h3><a href="#hi--im-ismael-pérez">🌎 English</a> | 🇪🇸 Español</h3>
+  <h3><a href="#hi--im-ismael-pérez"> English</a> | 🇪🇸 Español</h3>
 </div>
 
 <br>
 
-# Hola 👋, soy Ismael Pérez
+# Hola , soy Ismael Pérez
 
 **Desarrollador Full Stack | Ciberseguridad | Administrador de Sistemas**
 
@@ -102,7 +102,7 @@ Soy un desarrollador de software enfocado en crear soluciones **Full Stack robus
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
 **Frontend & Diseño Web**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -140,20 +140,20 @@ Soy un desarrollador de software enfocado en crear soluciones **Full Stack robus
 
 ---
 
-### 🚀 Proyectos Destacados
+### Proyectos Destacados
 
 A lo largo de mi carrera e iniciativas freelance, he desarrollado herramientas centradas en automatización, accesibilidad a nivel de sistema y gestión web:
 
-* 🛡️ **[MC Server Manager Unified](https://github.com/FKShield/mc-server-manager-unified):** Aplicación web automatizada en Node.js para crear servidores de Minecraft (Forge/Fabric). Incluye *web scraping* nativo en CurseForge, un analizador de mods para evitar incompatibilidades (cliente/servidor), vinculación con bots de Discord para comandos RCON y un *dashboard* web interactivo que muestra estadísticas de la partida en vivo.
-* 🎮 **[FKLauncher](https://github.com/FKShield/fk-launcher):** Un lanzador de videojuegos unificado y personalizable construido en Electron. Reúne toda la biblioteca de juegos de distintos clientes (Steam, Epic, Riot, EA, Xbox, etc.) y permite añadir ejecutables sueltos con descarga automatizada de portadas dinámicas y un sistema avanzado de tematización de interfaz.
-* ⚙️ **Inyector/Buscador de Memoria en Procesos (C/C++):** Herramienta desarrollada creando un `.exe` auxiliar capaz de adentrarse en la memoria de un proceso padre `.exe` y generar un sistema de búsqueda interna avanzado.
-* 💰 **Sistema de Licencias y Finanzas Personales/Empresariales:** Aplicación web completa de ingresos y gastos, protegida por un sistema nativo de verificación criptográfica de licencias de uso.
-* 🦷 **Gestión de Facturación para Clínicas:** Solución orientada a autónomos del sector de clínicas dentales para automatizar y agilizar su volumen de facturación.
-* ✉️ **Eventos Web Interactivos:** Plataforma de generación de invitaciones y experiencias web inmersivas para eventos privados.
+*  **[MC Server Manager Unified](https://github.com/FKShield/mc-server-manager-unified):** Aplicación web automatizada en Node.js para crear servidores de Minecraft (Forge/Fabric). Incluye *web scraping* nativo en CurseForge, un analizador de mods para evitar incompatibilidades (cliente/servidor), vinculación con bots de Discord para comandos RCON y un *dashboard* web interactivo que muestra estadísticas de la partida en vivo.
+*  **[FKLauncher](https://github.com/FKShield/fk-launcher):** Un lanzador de videojuegos unificado y personalizable construido en Electron. Reúne toda la biblioteca de juegos de distintos clientes (Steam, Epic, Riot, EA, Xbox, etc.) y permite añadir ejecutables sueltos con descarga automatizada de portadas dinámicas y un sistema avanzado de tematización de interfaz.
+*  **Inyector/Buscador de Memoria en Procesos (C/C++):** Herramienta desarrollada creando un `.exe` auxiliar capaz de adentrarse en la memoria de un proceso padre `.exe` y generar un sistema de búsqueda interna avanzado.
+*  **Sistema de Licencias y Finanzas Personales/Empresariales:** Aplicación web completa de ingresos y gastos, protegida por un sistema nativo de verificación criptográfica de licencias de uso.
+*  **Gestión de Facturación para Clínicas:** Solución orientada a autónomos del sector de clínicas dentales para automatizar y agilizar su volumen de facturación.
+*  **Eventos Web Interactivos:** Plataforma de generación de invitaciones y experiencias web inmersivas para eventos privados.
 
 ---
 
-### 💼 Experiencia Profesional
+### Experiencia Profesional
 
 - **Desarrollador Freelance** *(2 años)*: Desarrollo end-to-end de múltiples soluciones web, aplicaciones de escritorio y herramientas de automatización a medida para diversos clientes.
 - **Técnico de Sistemas** en Costa Calida SL *(1.5 años)*: Mantenimiento, resolución de incidencias, despliegue de soluciones tecnológicas en Windows/Linux.
@@ -161,7 +161,7 @@ A lo largo de mi carrera e iniciativas freelance, he desarrollado herramientas c
 
 ---
 
-### 🎓 Formación y Certificaciones
+### Formación y Certificaciones
 
 - **Máster Universitario en Ciberseguridad** - UCAM
 - **CFGS Desarrollo de Aplicaciones Multiplataforma (DAM)** - IES José Luis Martínez Palomo
@@ -174,7 +174,7 @@ A lo largo de mi carrera e iniciativas freelance, he desarrollado herramientas c
 
 <br>
 
-### 📊 Github Stats
+### Github Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FKShield&show_icons=true&theme=dracula" alt="Ismael's Stats" width="48%" />
