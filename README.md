@@ -28,17 +28,25 @@ I am a software developer focused on building **robust, scalable, and secure Ful
 **Backend, Databases & Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Security, Systems & OS**
 ![CyberSecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 **Design, Tools and Deployment**
@@ -54,10 +62,13 @@ I am a software developer focused on building **robust, scalable, and secure Ful
 
 ### Featured Projects
 
-Throughout my career and freelance initiatives, I have developed tools focused on automation, system-level accessibility, and web management:
+Throughout my career and freelance initiatives, I have developed tools focused on automation, security research, system-level accessibility, and web management:
 
-* **[MC Server Manager Unified](https://github.com/FKShield/mc-server-manager-unified):** Automated Node.js web application for setting up Minecraft (Forge/Fabric) servers. Includes a native web scraper for CurseForge, client-server dependency analyzers, remote RCON console via a Discord Bot, and a live web dashboard to monitor game statistics and up-time.
-* **[FKLauncher](https://github.com/FKShield/fk-launcher):** A unified and lightweight game launcher built in Electron. It acts as a central hub detecting installed games across clients (Steam, Epic, Riot, EA, Xbox, etc.) and allows importing standalone EXEs with automated dynamic covers and a highly customizable interface.
+* **[Vulnerability Analysis Platform](https://github.com/FKShield/vuln-platform):** Web platform for automated vulnerability scanning integrating 20+ tools (Trivy, Semgrep, Nuclei, OWASP ZAP, SQLmap, Gitleaks...) with AI-powered analysis and fix generation. Covers GitHub repos, web apps, local systems and installed packages. Built as a Master's thesis in Cybersecurity (TFM). Stack: FastAPI, React, PostgreSQL, Redis, Docker.
+* **[CVE-2025-5548 — Memory Corruption Lab](https://github.com/FKShield/CVE-2025-5548):** Research and exploitation lab for a Stack Buffer Overflow in FreeFloat FTP Server 1.0. Covers static analysis with IDA/Ghidra, binary fuzzing, EIP hijacking, bad-char analysis, ROP gadgets, MSFvenom shellcode, and reverse shell pivoting on a hardened Windows 11 environment.
+* **[SonarQube DevSecOps Integration](https://github.com/FKShield/SonarQube):** Professional workflow documenting SonarQube deployment via Docker, custom SAST rule configuration, Quality Gates setup, and a full detection-to-remediation cycle on Kali Linux. Demonstrates Shift-Left Security practices applicable to enterprise SDLC environments.
+* **[Minecraft Server Manager](https://github.com/FKShield/Minecraft-Setup-Server-Manager):** Automated Node.js web application for setting up Minecraft (Forge/Fabric) servers. Includes a native web scraper for CurseForge, client-server dependency analyzers, remote RCON console via a Discord Bot, and a live web dashboard to monitor game statistics and up-time.
+* **[FKLauncher](https://github.com/FKShield/FKLauncher):** A unified and lightweight game launcher built in Electron. It acts as a central hub detecting installed games across clients (Steam, Epic, Riot, EA, Xbox, etc.) and allows importing standalone EXEs with automated dynamic covers and a highly customizable interface.
 * **Process Memory Injector/Searcher (C/C++):** Tool developed as an auxiliary `.exe` capable of hooking into the memory space of a parent process and generating an advanced internal search system.
 * **License and Finance System:** Complete web application for tracking income and expenses, protected by a native cryptographic license verification system.
 * **Clinic Invoice Management:** Solution aimed at self-employed professionals in the dental clinic sector to automate and streamline their administrative workflow.
@@ -116,17 +127,25 @@ Soy un desarrollador de software enfocado en crear soluciones **Full Stack robus
 **Backend, Bases de Datos & Lenguajes**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Seguridad, Sistemas y SO**
 ![CyberSecurity](https://img.shields.io/badge/Ciberseguridad-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 **Diseño, Herramientas y Despliegue**
@@ -142,14 +161,17 @@ Soy un desarrollador de software enfocado en crear soluciones **Full Stack robus
 
 ### Proyectos Destacados
 
-A lo largo de mi carrera e iniciativas freelance, he desarrollado herramientas centradas en automatización, accesibilidad a nivel de sistema y gestión web:
+A lo largo de mi carrera e iniciativas freelance, he desarrollado herramientas centradas en automatización, investigación de seguridad, accesibilidad a nivel de sistema y gestión web:
 
-*  **[MC Server Manager Unified](https://github.com/FKShield/mc-server-manager-unified):** Aplicación web automatizada en Node.js para crear servidores de Minecraft (Forge/Fabric). Incluye *web scraping* nativo en CurseForge, un analizador de mods para evitar incompatibilidades (cliente/servidor), vinculación con bots de Discord para comandos RCON y un *dashboard* web interactivo que muestra estadísticas de la partida en vivo.
-*  **[FKLauncher](https://github.com/FKShield/fk-launcher):** Un lanzador de videojuegos unificado y personalizable construido en Electron. Reúne toda la biblioteca de juegos de distintos clientes (Steam, Epic, Riot, EA, Xbox, etc.) y permite añadir ejecutables sueltos con descarga automatizada de portadas dinámicas y un sistema avanzado de tematización de interfaz.
-*  **Inyector/Buscador de Memoria en Procesos (C/C++):** Herramienta desarrollada creando un `.exe` auxiliar capaz de adentrarse en la memoria de un proceso padre `.exe` y generar un sistema de búsqueda interna avanzado.
-*  **Sistema de Licencias y Finanzas Personales/Empresariales:** Aplicación web completa de ingresos y gastos, protegida por un sistema nativo de verificación criptográfica de licencias de uso.
-*  **Gestión de Facturación para Clínicas:** Solución orientada a autónomos del sector de clínicas dentales para automatizar y agilizar su volumen de facturación.
-*  **Eventos Web Interactivos:** Plataforma de generación de invitaciones y experiencias web inmersivas para eventos privados.
+* **[Plataforma de Análisis de Vulnerabilidades](https://github.com/FKShield/vuln-platform):** Plataforma web de análisis de vulnerabilidades que integra 20+ herramientas (Trivy, Semgrep, Nuclei, OWASP ZAP, SQLmap, Gitleaks...) con análisis y generación de fixes mediante IA. Cubre repositorios GitHub, aplicaciones web, sistemas locales y paquetes instalados. Desarrollada como Trabajo de Fin de Máster en Ciberseguridad (TFM). Stack: FastAPI, React, PostgreSQL, Redis, Docker.
+* **[CVE-2025-5548 — Laboratorio de Corrupción de Memoria](https://github.com/FKShield/CVE-2025-5548):** Investigación y laboratorio de explotación de un Stack Buffer Overflow en FreeFloat FTP Server 1.0. Cubre análisis estático con IDA/Ghidra, fuzzing binario, hijacking de EIP, análisis de bad-chars, gadgets ROP, shellcode MSFvenom y reverse shell, sobre un entorno Windows 11 reforzado.
+* **[Integración DevSecOps con SonarQube](https://github.com/FKShield/SonarQube):** Flujo de trabajo profesional que documenta el despliegue de SonarQube via Docker, configuración de reglas SAST personalizadas, Quality Gates y un ciclo completo de detección y remediación en Kali Linux. Demuestra prácticas Shift-Left Security aplicables a entornos empresariales.
+* **[Minecraft Server Manager](https://github.com/FKShield/Minecraft-Setup-Server-Manager):** Aplicación web automatizada en Node.js para crear servidores de Minecraft (Forge/Fabric). Incluye *web scraping* nativo en CurseForge, un analizador de mods para evitar incompatibilidades (cliente/servidor), vinculación con bots de Discord para comandos RCON y un *dashboard* web interactivo que muestra estadísticas de la partida en vivo.
+* **[FKLauncher](https://github.com/FKShield/FKLauncher):** Un lanzador de videojuegos unificado y personalizable construido en Electron. Reúne toda la biblioteca de juegos de distintos clientes (Steam, Epic, Riot, EA, Xbox, etc.) y permite añadir ejecutables sueltos con descarga automatizada de portadas dinámicas y un sistema avanzado de tematización de interfaz.
+* **Inyector/Buscador de Memoria en Procesos (C/C++):** Herramienta desarrollada creando un `.exe` auxiliar capaz de adentrarse en la memoria de un proceso padre `.exe` y generar un sistema de búsqueda interna avanzado.
+* **Sistema de Licencias y Finanzas Personales/Empresariales:** Aplicación web completa de ingresos y gastos, protegida por un sistema nativo de verificación criptográfica de licencias de uso.
+* **Gestión de Facturación para Clínicas:** Solución orientada a autónomos del sector de clínicas dentales para automatizar y agilizar su volumen de facturación.
+* **Eventos Web Interactivos:** Plataforma de generación de invitaciones y experiencias web inmersivas para eventos privados.
 
 ---
 
