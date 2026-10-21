@@ -1,204 +1,211 @@
 <div align="center">
-  <h3> English | <a href="#-español">🇪🇸 Español</a></h3>
+
+🇪🇸 **Español** · <a href="#-im-ismael-pérez">🇬🇧 English</a>
+
 </div>
-
-<br>
-
-# Hi, I'm Ismael Pérez
-
-**Full Stack Developer | Cybersecurity | Systems Administrator**
-
-I am a software developer focused on building **robust, scalable, and secure Full Stack solutions**. My technical background in Cybersecurity and my experience troubleshooting in Windows/Linux environments allow me not only to build applications, but to protect them and optimize the underlying infrastructure.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-perez-segura)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4D4D?style=for-the-badge&logo=vercel&logoColor=white)](https://fk-shield-web.vercel.app)
-
----
-
-### Technologies and Tools
-
-**Frontend & Web Design**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular CLI](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![XML](https://img.shields.io/badge/XML-005C84?style=for-the-badge&logo=xml&logoColor=white)
-
-**Backend, Databases & Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Security, Systems & OS**
-![CyberSecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-**Design, Tools and Deployment**
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
-![Premiere](https://img.shields.io/badge/Premiere-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=black)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-C1001C?style=for-the-badge&logo=davinciresolve&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
-![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
-
----
-
-### Featured Projects
-
-Throughout my career and freelance initiatives, I have developed tools focused on automation, security research, system-level accessibility, and web management:
-
-* **[Vulnerability Analysis Platform](https://github.com/FKShield/vuln-platform):** Web platform for automated vulnerability scanning integrating 20+ tools (Trivy, Semgrep, Nuclei, OWASP ZAP, SQLmap, Gitleaks...) with AI-powered analysis and fix generation. Covers GitHub repos, web apps, local systems and installed packages. Built as a Master's thesis in Cybersecurity (TFM). Stack: FastAPI, React, PostgreSQL, Redis, Docker.
-* **[CVE-2025-5548 — Memory Corruption Lab](https://github.com/FKShield/CVE-2025-5548):** Research and exploitation lab for a Stack Buffer Overflow in FreeFloat FTP Server 1.0. Covers static analysis with IDA/Ghidra, binary fuzzing, EIP hijacking, bad-char analysis, ROP gadgets, MSFvenom shellcode, and reverse shell pivoting on a hardened Windows 11 environment.
-* **[SonarQube DevSecOps Integration](https://github.com/FKShield/SonarQube):** Professional workflow documenting SonarQube deployment via Docker, custom SAST rule configuration, Quality Gates setup, and a full detection-to-remediation cycle on Kali Linux. Demonstrates Shift-Left Security practices applicable to enterprise SDLC environments.
-* **[Minecraft Server Manager](https://github.com/FKShield/Minecraft-Setup-Server-Manager):** Automated Node.js web application for setting up Minecraft (Forge/Fabric) servers. Includes a native web scraper for CurseForge, client-server dependency analyzers, remote RCON console via a Discord Bot, and a live web dashboard to monitor game statistics and up-time.
-* **[FKLauncher](https://github.com/FKShield/FKLauncher):** A unified and lightweight game launcher built in Electron. It acts as a central hub detecting installed games across clients (Steam, Epic, Riot, EA, Xbox, etc.) and allows importing standalone EXEs with automated dynamic covers and a highly customizable interface.
-* **Process Memory Injector/Searcher (C/C++):** Tool developed as an auxiliary `.exe` capable of hooking into the memory space of a parent process and generating an advanced internal search system.
-* **License and Finance System:** Complete web application for tracking income and expenses, protected by a native cryptographic license verification system.
-* **Clinic Invoice Management:** Solution aimed at self-employed professionals in the dental clinic sector to automate and streamline their administrative workflow.
-* **Interactive Web Events:** Platform for creating immersive digital invitations and web experiences for private events.
-
----
-
-### Professional Experience
-
-- **Freelance Developer** *(2 years)*: End-to-end development of multiple web solutions, desktop applications, and bespoke automation tools for various clients.
-- **Systems Technician** at Costa Calida SL *(1.5 years)*: Maintenance, troubleshooting, and deployment of tech solutions in Windows/Linux environments.
-
----
-
-### Education and Certifications
-
-- **Master's Degree in Cybersecurity** - UCAM
-- **HND Multiplatform Application Development** - IES José Luis Martínez Palomo
-- **High School Diploma in Science and Technology** - IES Saavedra Fajardo
-- **Fundamentals of Programming with Python** - Digitalízate
-- **Python Security** - CISCO
-
----
----
-
-<br>
 
 <div align="center">
-  <h3><a href="#hi--im-ismael-pérez"> English</a> | 🇪🇸 Español</h3>
+
+# Hola, soy Ismael Pérez
+
+**Frontend & Full Stack · Ciberseguridad · IA en el flujo de trabajo**
+
+Construyo interfaces web **seguras desde el diseño**, con la IA dentro de mi flujo de trabajo.
+
+![Disponible](https://img.shields.io/badge/●%20Disponible%20para%20proyectos%20y%20empleo-39FF14?style=flat-square&labelColor=0b0d12)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=0b0d12)](https://fk-shield-web.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-perez-segura)
+[![GitHub](https://img.shields.io/badge/GitHub-0B0D12?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FKShield)
+
+```
+~$ whoami
+Ismael — desde pequeño construyo las herramientas que necesito.
+Hoy las construyo para ti: webs, apps y seguridad.
+```
+
+</div>
+
+---
+
+## `<proyectos>`
+
+> No te lo cuento: **pruébalo tú.** Todo lo que hay aquí está funcionando.
+
+### ▸ Destacados
+
+| Proyecto | Qué es | Stack | |
+|----------|--------|-------|---|
+| **FK Money** | Finanzas personales: gastos recurrentes, informes, asistente de IA e importación bancaria (CSV/OFX) con conciliación. | React · Supabase | [▶ Demo](https://fk-money.vercel.app) |
+| **Limes** `multijugador` | Estrategia territorial en el navegador, con aviación, búnkeres y alianzas. Desplegado en mi propio VPS. | TypeScript · Node.js · WebSockets | [▶ Jugar](https://limesaction.duckdns.org) |
+| **gym-tracker** | Seguimiento de gimnasio: escaneos corporales, sesiones guiadas, racha semanal e informes con IA. Modo demo. | React · Supabase · IA · PWA | [▶ Demo](https://mytrackergym.vercel.app) |
+| **FK Launcher** | Launcher de escritorio que reúne Steam, Epic, Riot, EA y Xbox en una sola biblioteca con carátulas y auto-actualización. | Electron · React | [Código](https://github.com/FKShield/FKLauncher) |
+| **Minecraft Server Manager** | Crea y administra servidores Forge/Fabric desde una web local: buscador de modpacks, análisis de mods y control por Discord. | Node.js · RCON | [Código](https://github.com/FKShield/Minecraft-Setup-Server-Manager) |
+
+### ▸ Clientes reales
+
+| Proyecto | Qué es | Stack | |
+|----------|--------|-------|---|
+| **Facturación clínica** | PWA de facturación: PDF, CSV, IRPF trimestral y modo offline. El modo invitado usa datos inventados. | Expo · Supabase · PWA | [▶ Entrar como invitado](https://facturas-clinicas2.vercel.app) |
+| **BipolarAimSquad Bot** | Bot de Discord para una comunidad de Rainbow Six: grupos, torneos, estadísticas y canales de voz temporales. | Node.js · Discord.js · VPS | — |
+| **Invitaciones interactivas** | Invitación web para eventos privados, con confirmación de asistencia. | HTML · CSS · JS | [▶ Demo](https://demo-invitacion-eventos.vercel.app) |
+
+### ▸ Ciberseguridad
+
+| Proyecto | Qué es | Stack | |
+|----------|--------|-------|---|
+| **vuln-platform** `TFM` | Plataforma de análisis automatizado de vulnerabilidades que integra +20 herramientas e IA. Trabajo Fin de Máster. | Python · React · Docker | [Código](https://github.com/FKShield/vuln-platform) |
+| **CVE-2025-5548** | Laboratorio de explotación de un desbordamiento de búfer en FreeFloat FTP: análisis estático, fuzzing y shell reversa. | IDA/Ghidra · Python · Fuzzing | [Código](https://github.com/FKShield/CVE-2025-5548) |
+| **SonarQube** | Flujo DevSecOps: despliegue en Docker, reglas SAST, Quality Gates y ciclo de remediación de código. | SonarQube · Docker · Python | [Código](https://github.com/FKShield/SonarQube) |
+
+## `<servicios>`
+
+Siempre he construido lo que necesitaba. Ahora construyo **lo que necesitas tú** — con criterios de seguridad OWASP desde el primer día:
+
+`Webs y landing pages` · `Apps a medida y PWA` · `Integración de IA` · `Bots y automatizaciones` · `Apps de escritorio` · `Hosting y despliegue` · `Mantenimiento` · `Revisión de seguridad web`
+
+## `<stack>`
+
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+**Backend y lenguajes**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
+
+**Bases de datos**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Seguridad y DevSecOps**
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Herramientas y despliegue**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+## `<formacion>`
+
+- 🎓 **Máster en Ciberseguridad** — UCAM · *Auditoría web, seguridad ofensiva, bastionado*
+- 🎓 **CFGS Desarrollo de Aplicaciones Multiplataforma (DAM)** — IES José Luis Martínez Palomo
+- 📜 **Cursos** — Python Security (Cisco) · Fundamentos de la Programación con Python
+
+## `<sobre_mi>`
+
+Desde pequeño me gustó **crear las herramientas que yo mismo necesitaba**: un launcher, un gestor de servidores, una app para mis finanzas... Así acabé estudiando **Desarrollo de Aplicaciones Multiplataforma**. Programando entendí que una web bonita no sirve de nada si no es segura, y por eso hice el **Máster en Ciberseguridad**. Hoy desarrollo interfaces pensando en la seguridad desde el primer día y uso la IA para entregar más rápido sin perder calidad.
+
+<div align="center">
+
+### 📊 GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=FKShield&show_icons=true&hide_border=true&bg_color=0b0d12&title_color=00f0ff&icon_color=00f0ff&text_color=bcc2d0" alt="Estadísticas de Ismael" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FKShield&hide_border=true&background=0b0d12&stroke=232a3a&ring=00f0ff&fire=a855f7&currStreakLabel=00f0ff&sideLabels=bcc2d0&dates=959db0&currStreakNum=eef0f5&sideNums=eef0f5" alt="Racha de commits" height="165" />
+
+<br>
+
+**[→ Entra en mi portfolio: fk-shield-web.vercel.app](https://fk-shield-web.vercel.app)**
+
 </div>
 
 <br>
 
-# Hola , soy Ismael Pérez
+---
 
-**Desarrollador Full Stack | Ciberseguridad | Administrador de Sistemas**
+<div align="center">
 
-Soy un desarrollador de software enfocado en crear soluciones **Full Stack robustas, escalables y seguras**. Mi formación técnica en Ciberseguridad y mi experiencia resolviendo incidencias en Windows/Linux me permiten no solo construir aplicaciones, sino protegerlas y optimizar la infraestructura subyacente. 
+<a href="#hola-soy-ismael-pérez">🇪🇸 Español</a> · 🇬🇧 **English**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-perez-segura)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4D4D?style=for-the-badge&logo=vercel&logoColor=white)](https://fk-shield-web.vercel.app)
+</div>
+
+<div align="center">
+
+# 👋 I'm Ismael Pérez
+
+**Frontend & Full Stack · Cybersecurity · AI in my workflow**
+
+I build web interfaces that are **secure by design**, with AI inside my workflow.
+
+![Available](https://img.shields.io/badge/●%20Available%20for%20projects%20and%20work-39FF14?style=flat-square&labelColor=0b0d12)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=0b0d12)](https://fk-shield-web.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-perez-segura)
+[![GitHub](https://img.shields.io/badge/GitHub-0B0D12?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FKShield)
+
+```
+~$ whoami
+Ismael — I've always built the tools I needed.
+Now I build them for you: web, apps and security.
+```
+
+</div>
 
 ---
 
-### Tecnologías y Herramientas
+## `<projects>`
 
-**Frontend & Diseño Web**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular CLI](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![XML](https://img.shields.io/badge/XML-005C84?style=for-the-badge&logo=xml&logoColor=white)
+> I won't just tell you: **try it yourself.** Everything here is live.
 
-**Backend, Bases de Datos & Lenguajes**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### ▸ Featured
 
-**Seguridad, Sistemas y SO**
-![CyberSecurity](https://img.shields.io/badge/Ciberseguridad-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+| Project | What it is | Stack | |
+|---------|-----------|-------|---|
+| **FK Money** | Personal finance: recurring expenses, reports, AI assistant and bank import (CSV/OFX) with reconciliation. | React · Supabase | [▶ Demo](https://fk-money.vercel.app) |
+| **Limes** `multiplayer` | Browser territorial strategy with aviation, bunkers and alliances. Deployed on my own VPS. | TypeScript · Node.js · WebSockets | [▶ Play](https://limesaction.duckdns.org) |
+| **gym-tracker** | Gym tracking: body scans, guided sessions, weekly streak and AI reports. Demo mode. | React · Supabase · AI · PWA | [▶ Demo](https://mytrackergym.vercel.app) |
+| **FK Launcher** | Desktop launcher that unifies Steam, Epic, Riot, EA and Xbox into one library with covers and auto-updates. | Electron · React | [Code](https://github.com/FKShield/FKLauncher) |
+| **Minecraft Server Manager** | Build and manage Forge/Fabric servers from a local web UI: modpack search, mod analysis and Discord control. | Node.js · RCON | [Code](https://github.com/FKShield/Minecraft-Setup-Server-Manager) |
 
-**Diseño, Herramientas y Despliegue**
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
-![Premiere](https://img.shields.io/badge/Premiere-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=black)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-C1001C?style=for-the-badge&logo=davinciresolve&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
-![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+### ▸ Real clients
 
----
+| Project | What it is | Stack | |
+|---------|-----------|-------|---|
+| **Clinic Invoicing** | Invoicing PWA: PDF, CSV, quarterly tax and offline mode. Guest mode uses dummy data. | Expo · Supabase · PWA | [▶ Enter as guest](https://facturas-clinicas2.vercel.app) |
+| **BipolarAimSquad Bot** | Discord bot for a Rainbow Six community: groups, tournaments, stats and temporary voice channels. | Node.js · Discord.js · VPS | — |
+| **Interactive Invitations** | Web invitation for private events, with RSVP confirmation. | HTML · CSS · JS | [▶ Demo](https://demo-invitacion-eventos.vercel.app) |
 
-### Proyectos Destacados
+### ▸ Cybersecurity
 
-A lo largo de mi carrera e iniciativas freelance, he desarrollado herramientas centradas en automatización, investigación de seguridad, accesibilidad a nivel de sistema y gestión web:
+| Project | What it is | Stack | |
+|---------|-----------|-------|---|
+| **vuln-platform** `MSc thesis` | Automated vulnerability analysis platform integrating 20+ tools and AI. Master's thesis project. | Python · React · Docker | [Code](https://github.com/FKShield/vuln-platform) |
+| **CVE-2025-5548** | Exploitation lab for a stack buffer overflow in FreeFloat FTP: static analysis, fuzzing and reverse shell. | IDA/Ghidra · Python · Fuzzing | [Code](https://github.com/FKShield/CVE-2025-5548) |
+| **SonarQube** | DevSecOps workflow: Docker deployment, SAST rules, Quality Gates and a code remediation cycle. | SonarQube · Docker · Python | [Code](https://github.com/FKShield/SonarQube) |
 
-* **[Plataforma de Análisis de Vulnerabilidades](https://github.com/FKShield/vuln-platform):** Plataforma web de análisis de vulnerabilidades que integra 20+ herramientas (Trivy, Semgrep, Nuclei, OWASP ZAP, SQLmap, Gitleaks...) con análisis y generación de fixes mediante IA. Cubre repositorios GitHub, aplicaciones web, sistemas locales y paquetes instalados. Desarrollada como Trabajo de Fin de Máster en Ciberseguridad (TFM). Stack: FastAPI, React, PostgreSQL, Redis, Docker.
-* **[CVE-2025-5548 — Laboratorio de Corrupción de Memoria](https://github.com/FKShield/CVE-2025-5548):** Investigación y laboratorio de explotación de un Stack Buffer Overflow en FreeFloat FTP Server 1.0. Cubre análisis estático con IDA/Ghidra, fuzzing binario, hijacking de EIP, análisis de bad-chars, gadgets ROP, shellcode MSFvenom y reverse shell, sobre un entorno Windows 11 reforzado.
-* **[Integración DevSecOps con SonarQube](https://github.com/FKShield/SonarQube):** Flujo de trabajo profesional que documenta el despliegue de SonarQube via Docker, configuración de reglas SAST personalizadas, Quality Gates y un ciclo completo de detección y remediación en Kali Linux. Demuestra prácticas Shift-Left Security aplicables a entornos empresariales.
-* **[Minecraft Server Manager](https://github.com/FKShield/Minecraft-Setup-Server-Manager):** Aplicación web automatizada en Node.js para crear servidores de Minecraft (Forge/Fabric). Incluye *web scraping* nativo en CurseForge, un analizador de mods para evitar incompatibilidades (cliente/servidor), vinculación con bots de Discord para comandos RCON y un *dashboard* web interactivo que muestra estadísticas de la partida en vivo.
-* **[FKLauncher](https://github.com/FKShield/FKLauncher):** Un lanzador de videojuegos unificado y personalizable construido en Electron. Reúne toda la biblioteca de juegos de distintos clientes (Steam, Epic, Riot, EA, Xbox, etc.) y permite añadir ejecutables sueltos con descarga automatizada de portadas dinámicas y un sistema avanzado de tematización de interfaz.
-* **Inyector/Buscador de Memoria en Procesos (C/C++):** Herramienta desarrollada creando un `.exe` auxiliar capaz de adentrarse en la memoria de un proceso padre `.exe` y generar un sistema de búsqueda interna avanzado.
-* **Sistema de Licencias y Finanzas Personales/Empresariales:** Aplicación web completa de ingresos y gastos, protegida por un sistema nativo de verificación criptográfica de licencias de uso.
-* **Gestión de Facturación para Clínicas:** Solución orientada a autónomos del sector de clínicas dentales para automatizar y agilizar su volumen de facturación.
-* **Eventos Web Interactivos:** Plataforma de generación de invitaciones y experiencias web inmersivas para eventos privados.
+## `<services>`
 
----
+I've always built what I needed. Now I build **what you need** — with OWASP security criteria from day one:
 
-### Experiencia Profesional
+`Websites & landing pages` · `Custom apps & PWAs` · `AI integration` · `Bots & automation` · `Desktop apps` · `Hosting & deployment` · `Maintenance` · `Web security review`
 
-- **Desarrollador Freelance** *(2 años)*: Desarrollo end-to-end de múltiples soluciones web, aplicaciones de escritorio y herramientas de automatización a medida para diversos clientes.
-- **Técnico de Sistemas** en Costa Calida SL *(1.5 años)*: Mantenimiento, resolución de incidencias, despliegue de soluciones tecnológicas en Windows/Linux.
+## `<education>`
 
----
+- 🎓 **Master's Degree in Cybersecurity** — UCAM · *Web auditing, offensive security, hardening*
+- 🎓 **HND Multiplatform Application Development** — IES José Luis Martínez Palomo
+- 📜 **Courses** — Python Security (Cisco) · Programming Fundamentals with Python
 
-### Formación y Certificaciones
+## `<about_me>`
 
-- **Máster Universitario en Ciberseguridad** - UCAM
-- **CFGS Desarrollo de Aplicaciones Multiplataforma (DAM)** - IES José Luis Martínez Palomo
-- **Bachillerato Tecnológico** - IES Saavedra Fajardo
-- **Fundamentos de la Programación con Python** - Digitalízate
-- **Python Security** - CISCO
+Since I was a kid I loved **building the tools I needed myself**: a launcher, a server manager, an app for my finances... That's how I ended up studying **Multiplatform Application Development**. While coding I realised that a beautiful website is worthless if it isn't secure, so I took a **Master's in Cybersecurity**. Today I build interfaces with security in mind from day one, and I use AI to ship faster without losing quality.
 
----
----
+<div align="center">
 
-<br>
+**[→ Visit my portfolio: fk-shield-web.vercel.app](https://fk-shield-web.vercel.app)**
 
-### Github Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FKShield&show_icons=true&theme=dracula" alt="Ismael's Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FKShield&theme=dracula" alt="Ismael's Commit Streaks" width="48%" />
-</p>
+</div>
