@@ -11,6 +11,7 @@
 I am a software developer focused on building **robust, scalable, and secure Full Stack solutions**. My technical background in Cybersecurity and my experience troubleshooting in Windows/Linux environments allow me not only to build applications, but to protect them and optimize the underlying infrastructure.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-perez-segura)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4D4D?style=for-the-badge&logo=vercel&logoColor=white)](https://fk-shield-web.vercel.app)
 
 ---
 
@@ -80,7 +81,6 @@ Throughout my career and freelance initiatives, I have developed tools focused o
 
 - **Freelance Developer** *(2 years)*: End-to-end development of multiple web solutions, desktop applications, and bespoke automation tools for various clients.
 - **Systems Technician** at Costa Calida SL *(1.5 years)*: Maintenance, troubleshooting, and deployment of tech solutions in Windows/Linux environments.
-- **Software Developer** at Inforges *(1 year)*: Maintenance, development, and integration of corporate software.
 
 ---
 
@@ -110,6 +110,7 @@ Throughout my career and freelance initiatives, I have developed tools focused o
 Soy un desarrollador de software enfocado en crear soluciones **Full Stack robustas, escalables y seguras**. Mi formación técnica en Ciberseguridad y mi experiencia resolviendo incidencias en Windows/Linux me permiten no solo construir aplicaciones, sino protegerlas y optimizar la infraestructura subyacente. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-perez-segura)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4D4D?style=for-the-badge&logo=vercel&logoColor=white)](https://fk-shield-web.vercel.app)
 
 ---
 
@@ -179,7 +180,6 @@ A lo largo de mi carrera e iniciativas freelance, he desarrollado herramientas c
 
 - **Desarrollador Freelance** *(2 años)*: Desarrollo end-to-end de múltiples soluciones web, aplicaciones de escritorio y herramientas de automatización a medida para diversos clientes.
 - **Técnico de Sistemas** en Costa Calida SL *(1.5 años)*: Mantenimiento, resolución de incidencias, despliegue de soluciones tecnológicas en Windows/Linux.
-- **Programador** en Inforges *(1 año)*: Mantenimiento, desarrollo e implementación de software corporativo.
 
 ---
 
