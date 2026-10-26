@@ -39,7 +39,7 @@ Hoy las construyo para ti: webs, apps y seguridad.
 | **FK Money** | Finanzas personales: gastos recurrentes, informes, asistente de IA e importación bancaria (CSV/OFX) con conciliación. | React · Supabase | [▶ Demo](https://fk-money.vercel.app) |
 | **Limes** `multijugador` | Estrategia territorial en el navegador, con aviación, búnkeres y alianzas. Desplegado en mi propio VPS. | TypeScript · Node.js · WebSockets | [▶ Jugar](https://limesaction.duckdns.org) |
 | **gym-tracker** | Seguimiento de gimnasio: escaneos corporales, sesiones guiadas, racha semanal e informes con IA. Modo demo. | React · Supabase · IA · PWA | [▶ Demo](https://mytrackergym.vercel.app) |
-| **FK Launcher** | Launcher de escritorio que reúne Steam, Epic, Riot, EA y Xbox en una sola biblioteca con carátulas y auto-actualización. | Electron · React | [Código](https://github.com/FKShield/FKLauncher) |
+| **FK Launcher** | Launcher de escritorio que reúne Steam, Epic, Riot, EA y Xbox en una sola biblioteca con carátulas y auto-actualización. | Electron · React | [▶ Web](https://fk-launcher.vercel.app/) |
 | **Minecraft Server Manager** | Crea y administra servidores Forge/Fabric desde una web local: buscador de modpacks, análisis de mods y control por Discord. | Node.js · RCON | [Código](https://github.com/FKShield/Minecraft-Setup-Server-Manager) |
 
 ### ▸ Clientes reales
@@ -169,7 +169,7 @@ Now I build them for you: web, apps and security.
 | **FK Money** | Personal finance: recurring expenses, reports, AI assistant and bank import (CSV/OFX) with reconciliation. | React · Supabase | [▶ Demo](https://fk-money.vercel.app) |
 | **Limes** `multiplayer` | Browser territorial strategy with aviation, bunkers and alliances. Deployed on my own VPS. | TypeScript · Node.js · WebSockets | [▶ Play](https://limesaction.duckdns.org) |
 | **gym-tracker** | Gym tracking: body scans, guided sessions, weekly streak and AI reports. Demo mode. | React · Supabase · AI · PWA | [▶ Demo](https://mytrackergym.vercel.app) |
-| **FK Launcher** | Desktop launcher that unifies Steam, Epic, Riot, EA and Xbox into one library with covers and auto-updates. | Electron · React | [Code](https://github.com/FKShield/FKLauncher) |
+| **FK Launcher** | Desktop launcher that unifies Steam, Epic, Riot, EA and Xbox into one library with covers and auto-updates. | Electron · React | [▶ Site](https://fk-launcher.vercel.app/) |
 | **Minecraft Server Manager** | Build and manage Forge/Fabric servers from a local web UI: modpack search, mod analysis and Discord control. | Node.js · RCON | [Code](https://github.com/FKShield/Minecraft-Setup-Server-Manager) |
 
 ### ▸ Real clients
